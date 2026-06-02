@@ -11,8 +11,11 @@
 <p>
   <p align="center">
   <a href="https://www.linkedin.com/in/vansh-jain14/">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
+    <a href="mailto:vanshjainhere@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
 </p>
 </p>
 
@@ -117,26 +120,6 @@ YOLOv8 • OpenCV • Scikit-Learn • FAISS • Hugging Face • XGBoost • Li
 - Vulnerability Research
 - Threat Analysis
 - Secure Software Development
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshjain14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vanshjain14&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
