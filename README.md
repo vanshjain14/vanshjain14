@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_PROJECT_GIF_OR_AI_GIF_HERE" width="100%" />
+
 
 # Hi 👋, I'm Vansh Jain
 
@@ -9,21 +9,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Developer;RAG+%26+LLM+Builder;Cybersecurity+Practitioner;Building+Secure+AI+Systems" />
 
 <p>
-  <a href="https://github.com/vanshjain14">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vansh-jain14/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+</p>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a Machine Learning Engineer pursuing an MCA at VIT Vellore with experience building AI systems across:
+I'm a Machine Learning Engineer pursuing an MCA at VIT Vellore with experience building intelligent systems across Computer Vision, Large Language Models, Retrieval-Augmented Generation (RAG), Reinforcement Learning, and Cybersecurity.
+
+I enjoy developing solutions that are not only accurate and scalable but also secure, reliable, and practical for real-world deployment.
 
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
@@ -33,165 +34,93 @@ I'm a Machine Learning Engineer pursuing an MCA at VIT Vellore with experience b
 - 🔐 Cybersecurity
 - 🛡️ AI Security & Adversarial Robustness
 
-My goal is to build intelligent systems that are not only accurate and scalable but also secure and reliable.
+---
+
+## 🛠 Tech Stack
+
+### Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,flask,mongodb,mysql,pytorch,tensorflow,docker,git,linux,vscode)](https://skillicons.dev)
+
+### AI / ML & Security
+
+YOLOv8 • OpenCV • Scikit-Learn • FAISS • Hugging Face • XGBoost • LightGBM • CatBoost • Stable-Baselines3 • Pandas • NumPy • Penetration Testing • Vulnerability Assessment • OWASP Top 10
 
 ---
 
-# 🛠 Tech Stack
+## 🌟 Featured Projects
 
-### AI / Machine Learning
+### 🌾 ML Weed Scouter
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+**Precision Agriculture using Computer Vision + Reinforcement Learning**
 
-**Tools & Frameworks**
+- Developed a YOLOv8-based weed detection system
+- Achieved **0.88–0.91 mAP@0.5**
+- Generated weed density maps using DBSCAN clustering
+- Implemented PPO-based precision spraying policies
+- Improved targeting efficiency by reducing redundant field coverage
 
-- YOLOv8
-- OpenCV
-- Scikit-Learn
-- Hugging Face
-- FAISS
-- Stable-Baselines3
-- XGBoost
-- LightGBM
-- CatBoost
-- NumPy
-- Pandas
+**Stack:** Python • YOLOv8 • OpenCV • PPO • Stable-Baselines3
 
 ---
 
-### Full Stack Development
+### 🤖 Offline Multilingual RAG Chatbot
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flask,nodejs,javascript,mysql,mongodb" />
-</p>
+**Privacy-First Document Question Answering System**
+
+- Built a fully offline Retrieval-Augmented Generation pipeline
+- Integrated Mistral-7B for local inference
+- Improved retrieval precision by **32%**
+- Achieved average response time of **4.8 seconds**
+- Added multilingual support using MarianMT
+- Zero cloud dependency
+
+**Stack:** Mistral-7B • FAISS • SentenceTransformers • Flask • Hugging Face
 
 ---
 
-### Development & DevOps
+### 🏥 Diabetes Prediction System
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" />
-</p>
+**Ensemble Machine Learning for Healthcare Analytics**
+
+- Developed a stacked ensemble architecture
+- Achieved **93% Accuracy**
+- Reached **95% ROC-AUC**
+- Combined CatBoost, LightGBM, and XGBoost
+- Applied hyperparameter tuning and cross-validation
+
+**Stack:** Scikit-Learn • CatBoost • LightGBM • XGBoost
 
 ---
 
-### Cybersecurity
+## 🔐 Cybersecurity Experience
 
-- Penetration Testing
-- Vulnerability Assessment
-- Threat Analysis
-- Security Auditing
-- OWASP Top 10
-- Secure Software Development
+### Penetration Tester
+
+- Conducted assessments on government web applications
+- Identified critical and high-severity vulnerabilities
+- Performed OWASP Top 10 security testing
+- Delivered remediation-focused security reports
+
+### Security Auditor
+
+- Performed physical and network security audits
+- Conducted risk assessments and threat analysis
+- Identified access-control weaknesses
+- Assisted organizations in strengthening security posture
+
+### Areas of Interest
+
 - AI Security
+- Adversarial Machine Learning
+- Web Application Security
+- Vulnerability Research
+- Threat Analysis
+- Secure Software Development
 
 ---
 
-# 🌟 Featured Projects
-
-## 🌾 ML Weed Scouter
-
-### Precision Agriculture using Computer Vision + Reinforcement Learning
-
-Built a smart weed detection and precision spraying system for agricultural environments.
-
-### Highlights
-
-✅ YOLOv8 weed detection model
-
-✅ 0.88–0.91 mAP@0.5
-
-✅ DBSCAN-based weed density mapping
-
-✅ PPO reinforcement learning policy
-
-✅ Reduced redundant field coverage through intelligent spraying
-
-**Stack**
-
-`Python` `YOLOv8` `OpenCV` `DBSCAN` `PPO` `Stable-Baselines3`
-
----
-
-## 🤖 Offline Multilingual RAG Chatbot
-
-### Privacy-First Document Question Answering
-
-Built an entirely offline Retrieval-Augmented Generation pipeline.
-
-### Highlights
-
-✅ Mistral-7B local inference
-
-✅ FAISS vector search
-
-✅ 32% retrieval precision improvement
-
-✅ Average response time: 4.8 seconds
-
-✅ Multilingual support using MarianMT
-
-✅ Zero cloud dependency
-
-**Stack**
-
-`Mistral-7B` `FAISS` `SentenceTransformers` `Flask` `Hugging Face`
-
----
-
-## 🏥 Diabetes Prediction System
-
-### Ensemble Learning for Healthcare Analytics
-
-Designed a stacked ensemble model for diabetes prediction.
-
-### Highlights
-
-✅ 93% Accuracy
-
-✅ 95% ROC-AUC
-
-✅ CatBoost + LightGBM + XGBoost Ensemble
-
-✅ Cross-validation and hyperparameter tuning
-
-**Stack**
-
-`Scikit-Learn` `CatBoost` `XGBoost` `LightGBM`
-
----
-
-# 🔐 Cybersecurity Experience
-
-## Penetration Tester
-
-Conducted security assessments against real-world government systems.
-
-### Highlights
-
-- Tested 10+ government websites
-- Identified critical vulnerabilities
-- Performed OWASP Top 10 assessments
-- Delivered remediation-focused reports
-
----
-
-## Security Auditor
-
-Performed physical and network security audits.
-
-### Highlights
-
-- Audited 15+ examination centers
-- Conducted risk assessments
-- Identified security gaps
-- Collaborated on remediation strategies
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -211,10 +140,10 @@ Performed physical and network security audits.
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Agentic AI Systems
-- AI Security
+- AI Security & Adversarial ML
 - Computer Vision Research
 - Retrieval-Augmented Generation
 - Reinforcement Learning
@@ -222,7 +151,7 @@ Performed physical and network security audits.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - Oracle Cloud Infrastructure 2025 Certified Foundations Associate
@@ -232,7 +161,7 @@ Performed physical and network security audits.
 
 ---
 
-# 🤝 Open To
+## 🤝 Open To
 
 - Machine Learning Engineer Roles
 - AI Engineer Roles
@@ -246,6 +175,6 @@ Performed physical and network security audits.
 
 ### Building intelligent systems at the intersection of AI and Cybersecurity.
 
-⭐ If you like my work, consider following my journey.
+⭐ Thanks for visiting my profile!
 
 </div>
